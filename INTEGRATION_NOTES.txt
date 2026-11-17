@@ -1,0 +1,20 @@
+PIXEL QUEST — YES2 GYM / CV INTEGRATION
+=======================================
+This version keeps the complete 3v3 game and town simulation from the uploaded Pixel_Quest_YES2_3v3_Gym(1).zip.
+
+PARTY → ORIGINAL CV LINKS
+Water Captain / Grace       portfolios/grace/grace_cv_portfolio.html
+Grass Captain / Nicholas    portfolios/nicholas/index.html
+Fire Captain / Keith        portfolios/keith/keith_nicholas_cv (1).html
+
+Each VIEW PROFILE & STATS button opens the matching ORIGINAL CV inside a full-screen viewer. The gold BACK TO THE GAME button closes the viewer and restores the current game, including your place and battle progress. Escape also closes the viewer.
+
+IMPORTANT PRESERVATION
+None of the three CV HTML files were edited. Their original visual styles, content, and scripts remain exactly as provided. A separate navigation bar is added outside the CV pages, so every portfolio gets a Back button without altering its original source.
+The original CV image assets are kept intact. Two HTML pages referenced an image_1eb4e7.png asset missing from their ZIPs; the matching logo was copied from the Nicholas portfolio ZIP to those folders without editing the HTML.
+The Nicholas CV references a PDF named "Copy of CV Derren David CHR - Updated Apr 4.pdf" which was NOT included in the uploaded ZIP. The existing PDF link is left unchanged, so that particular download will be missing until the original PDF is supplied.
+
+GITHUB PAGES
+Upload the contents of the pokemon-gym folder to your GitHub repo's root. Include portfolios/, assets/, index.html, service-worker.js, and manifest.webmanifest. If your browser shows an old version, clear site cache or hard refresh once.
+
+Publishing a website makes CV details and contact information accessible to visitors. Confirm each CV owner's permission to share publicly.

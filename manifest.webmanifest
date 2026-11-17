@@ -1,0 +1,17 @@
+{
+  "name": "Pixel Quest \u2014 YES2 Triple Trial",
+  "short_name": "YES2 Gym",
+  "description": "Interactive 3v3 gym battle with a three-person elemental party",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1629",
+  "theme_color": "#0d1629",
+  "icons": [
+    {
+      "src": "assets/sprig.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
